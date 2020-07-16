@@ -23,6 +23,6 @@ end
 def all_phrases 
   phrase = "It's-a me, Mario!"
   status = "Thank You Mario! But Our Princess Is In Another
-  phrase1= "It's Dangerous To Go Alone! Take This."
+
   puts phrase, status, phrase1 
 end 
